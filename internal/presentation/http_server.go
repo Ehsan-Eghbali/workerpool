@@ -1,4 +1,4 @@
-package infrastructure
+package presentation
 
 import (
 	"github.com/gin-gonic/gin"
